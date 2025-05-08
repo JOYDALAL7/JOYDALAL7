@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🎯 Currently building an AI-poweredProjects using Python and OpenAI
+- 🎯 Currently building an AI-powered Projects using Python and OpenAI
 - 📱 Experienced in Flutter app development and AWS integration
 - 🔐 Passionate about Cybersecurity — active learner on TryHackMe
 - 🌱 Exploring Prompt Engineering, Serverless APIs, and UI/UX design
